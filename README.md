@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Users are authenticated by the slack application using their Slack ID and Slacks OAuth mechanim
+
+Users are authenticated by the slack application using their Slack ID and Slacks OAuth mechanim.
+![Screenshot (3849)](https://user-images.githubusercontent.com/91618810/147870271-eab353c7-5704-45af-8cc2-f28452f3abd4.png)
+
 
 ## Available Scripts
 
