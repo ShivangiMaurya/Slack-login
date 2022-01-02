@@ -8,6 +8,10 @@ Users are authenticated by the slack application using their Slack ID and Slacks
 I have used slack APIs Once user loggedin ,a message pop up Message sent.
 ![Screenshot (3850)](https://user-images.githubusercontent.com/91618810/147870325-b2d57029-0ed6-4258-82c7-96d5b89dbdc8.png)
 
+After that You will be redirected into slack workspace with your email-id.
+![Screenshot (3851)](https://user-images.githubusercontent.com/91618810/147870458-bdd8d6f7-bced-4c86-a08e-5ed758391f43.png)
+
+
 
 ## Available Scripts
 
