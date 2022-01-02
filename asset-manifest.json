@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Slack-login/static/css/main.578dd648.css",
+    "main.js": "/Slack-login/static/js/main.1c3929b7.js",
+    "index.html": "/Slack-login/index.html",
+    "main.578dd648.css.map": "/Slack-login/static/css/main.578dd648.css.map",
+    "main.1c3929b7.js.map": "/Slack-login/static/js/main.1c3929b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.578dd648.css",
+    "static/js/main.1c3929b7.js"
+  ]
+}
